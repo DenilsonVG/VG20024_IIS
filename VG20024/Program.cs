@@ -11,7 +11,7 @@ namespace VG20024
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo :D");
-            Console.WriteLine("Prueba de hotfix cambio)
+            Console.WriteLine("Prueba de hotfix cambio prueba")
         }
     }
 }
